@@ -67,5 +67,5 @@ Shadow Duel Blackjack is a blackjack concept with a custom pre-round guessing me
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/shadow-duel-blackjack.git
-cd shadow-duel-blackjack
+git clone https://github.com/nordenlight/FreeHandBlackjack_POC.git
+cd FreeHandBlackjack_POC
